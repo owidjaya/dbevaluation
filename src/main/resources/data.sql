@@ -1,0 +1,2 @@
+--TRUNCATE tutorial.person;
+--alter sequence tutorial.person_id_seq restart with 1;
